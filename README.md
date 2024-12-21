@@ -17,4 +17,4 @@ The uploaded project appears to focus on analyzing a dataset related to mobile h
    - Understand significant features affecting handset prices.
    - Develop a predictive model for handset pricing.
 
-Would you like a detailed review or exploration of a specific section in this notebook?
+Would you like a detailed review or exploration of a specific section in this notebook.
